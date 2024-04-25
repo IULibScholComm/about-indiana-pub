@@ -1,9 +1,11 @@
-## What is Indiana Publishing: Grey Literature?
+## What is Indiana Publishing: Grey Literature? {.smaller}
 
 **Indiana Publishing: Grey Literature** is a publishing service for texts created by the IU community that are not publishable by scholarly or commercial presses but that are nonetheless worthy of the affordances of a publisher. 
 
 - Free for Authors
 - Free for Readers (Open Access)
+- Authors Retain Copyright
+- IU Branding
 - Digital First
 - Housed in IUBL's Scholarly Communication Department
 
@@ -136,6 +138,7 @@ Collection of Interview Transcripts by IU Professor
 
 - Print-on-Demand
 - Discoverability (Enhanced)
+- IU Integration
 - Graphic Design
 
 ## How You Can Help Us 
