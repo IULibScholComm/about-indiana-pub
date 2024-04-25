@@ -1,0 +1,36 @@
+project:
+  type: default
+  output-dir: docs
+  
+title: |-
+  Introducing
+
+  Indiana Publishing: Grey Literature
+subtitle: <https://libraries.indiana.edu/publishing>
+date: "25 April 2024"
+author: Adam Mazel, Digital Publishing Librarian
+institute: Scholarly Communication Department, IUB Libraries
+
+
+format:
+  revealjs:
+    theme: default
+    html-q-tags: true
+#    toc: true
+#    toc-title: Outline
+    chalkboard: true
+    scrollable: true
+    overview: true
+    touch: true
+    keyboard: true
+    mouse-wheel: true
+    hide-inactive-cursor: true
+    progress: true
+#    slide-number: true
+    preview-links: true
+#   embed-resources: true
+    fig-responsive: true
+    transition: slide
+    lang: en-US
+    keywords: ["Indiana University", "Indiana University Libraries", "Publishing", "Open Access", "Library Publishing"]
+logo: images\indianapublishing_lockup_WEB_h5.png 

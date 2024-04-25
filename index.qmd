@@ -1,0 +1,189 @@
+## What is Indiana Publishing: Grey Literature?
+
+**Indiana Publishing: Grey Literature** is a publishing service for texts created by the IU community that are not publishable by scholarly or commercial presses but that are nonetheless worthy of the affordances of a publisher. 
+
+- Free for Authors
+- Free for Readers (Open Access)
+- Digital First
+- Housed in IUBL's Scholarly Communication Department
+
+## Who We Publish
+
+Manuscripts created by (at least one member of) the **IU community**
+
+- Faculty
+- Staff
+- Students
+- Centers
+- Research Groups
+- Etc.
+
+## How We Publish: Platforms
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[![Quarto](images/through_the_looking_glass.JPG)](https://iulibscholcomm.github.io/through-the-looking-glass/)
+:::
+
+::: {.column width="42.5%"}
+[![Pressbooks](images/pressbooks.JPG)](https://iu.pressbooks.pub/thrivingguide/)
+:::
+
+::::
+
+## How We Publish: Formats
+
+Multiformat Publishing 
+
+- HTML
+- EPUB
+- PDF
+
+## What We Publish
+
+Manuscripts that are not publishable by scholarly or commercial presses
+
+- not expected to sell or too costly to publish
+- not apt for peer review 
+- digital scholarship 
+
+## What We Publish: Genres
+
+- Books
+    - Non Fiction
+    - Fiction
+- Companions 
+- Conference Proceedings
+- Reports / White Papers
+
+## What We Publish: Criteria
+
+- External (Peer) Review: No
+
+&NewLine;
+
+- Internal Review: Yes
+    - High Impact
+    - Digital Affordances
+    - Historically Excluded Groups
+
+Apply via [Indiana Publishing: Grey Literature website](https://libraries.indiana.edu/publishing)
+
+Why should the manuscript be published by Indiana Publishing: Grey Literature rather than yourself?
+
+## Examples
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Accepted 
+
+[*Through the Looking Glass: I. Why Cross-Fertilize?*](https://iulibscholcomm.github.io/through-the-looking-glass/) by Curt Lively, Distinguished Professor of Biology
+
+:::
+
+::: {.column width="50%"}
+
+### Declined
+
+Collection of Interview Transcripts by IU Professor
+
+:::
+
+::::
+
+## How We Help
+
+### Publishing Options Before Indiana Publishing
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+#### Self Publishing
+
+- IU ScholarWorks
+- Pressbooks
+
+:::
+
+::: {.column width="50%"}
+
+#### Limitations
+
+- Unaware / Uncertain Authors 
+- Inaccessible Publications
+- Etc.
+
+:::
+
+::::
+
+## How We Help: Services
+
+- Copyright and Licensing Advice
+- Media Advice
+- Digital Publication Creation 
+- Discoverability 
+- Bibliometrics 
+- Accessibility 
+- Preservation 
+- Publicity
+
+## Where We're Going
+
+- Print-on-Demand
+- Discoverability (Enhanced)
+- Graphic Design
+
+## How You Can Help Us 
+
+- Apply!
+- Encourage relevant contituents to apply!
+
+## The End
+
+- **Thank You!**
+- Questions?
+
+
+
+<!--
+:::: {.columns}
+
+::: {.column width="33.3%"}
+- 
+    - 
+     <!--
+        - too esoteric
+        - uncertain / small audience
+    - too long or too short 
+  
+    - 
+    - 
+<!-- 
+        - dynamic media
+        - interactive
+        -->
+<!--
+:::
+
+::: {.column width="33.3%"}
+-  Include:
+    - 
+    - 
+    - 
+    - 
+:::
+
+::: {.column width="33.3%"}
+- 
+    - 
+    - 
+:::
+
+::::
+
+-->
