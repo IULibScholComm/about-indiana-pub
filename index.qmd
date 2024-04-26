@@ -1,9 +1,9 @@
 ## What is Indiana Publishing: Grey Literature? {.smaller}
 
-**Indiana Publishing: Grey Literature** is a publishing service for texts created by the IU community that are not publishable by scholarly or commercial presses but that are nonetheless worthy of the affordances of a publisher. 
+**Indiana Publishing: Grey Literature** is a library publishing service for texts created by the IU community that are not publishable by scholarly or commercial presses but that are nonetheless worthy of the affordances of a publisher. 
 
 - Free for Authors
-- Free for Readers (Open Access)
+- Free for Readers
 - Authors Retain Copyright
 - IU Branding
 - Digital First
@@ -15,7 +15,7 @@ Manuscripts created by (at least one member of) the **IU community**
 
 - Faculty
 - Staff
-- Students
+- **Students**
 - Centers
 - Research Groups
 - Etc.
@@ -47,6 +47,7 @@ Multiformat Publishing
 Manuscripts that are not publishable by scholarly or commercial presses
 
 - not expected to sell or too costly to publish
+- too short or too long
 - not apt for peer review 
 - digital scholarship 
 
@@ -74,6 +75,7 @@ Apply via [Indiana Publishing: Grey Literature website](https://libraries.indian
 
 Why should the manuscript be published by Indiana Publishing: Grey Literature rather than yourself?
 
+<!--
 ## Examples
 
 :::: {.columns}
@@ -95,6 +97,8 @@ Collection of Interview Transcripts by IU Professor
 :::
 
 ::::
+
+-->
 
 ## How We Help
 
@@ -128,9 +132,9 @@ Collection of Interview Transcripts by IU Professor
 - Copyright and Licensing Advice
 - Media Advice
 - Digital Publication Creation 
+- Accessibility 
 - Discoverability 
 - Bibliometrics 
-- Accessibility 
 - Preservation 
 - Publicity
 
@@ -141,14 +145,27 @@ Collection of Interview Transcripts by IU Professor
 - IU Integration
 - Graphic Design
 
+<!--
 ## How You Can Help Us 
 
 - Apply!
 - Encourage relevant contituents to apply!
 
-## The End
+-->
+
+## The End {.smaller}
+
+- Please Apply!
+    - Indiana Publishing: Grey Literature: <https://libraries.indiana.edu/publishing-grey-literature>
+    - Adam Mazel: [amazel@iu.edu](mailto:amazel@iu.edu)
+
+&NewLine;
 
 - **Thank You!**
+    - Presentation Slides: <https://iulibscholcomm.github.io/about-indiana-pub/#/title-slide>
+
+&NewLine;
+
 - Questions?
 
 
